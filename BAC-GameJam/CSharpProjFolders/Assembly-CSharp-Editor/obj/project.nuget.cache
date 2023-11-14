@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWjNESzjZA5piY4ep/PC484P/6Vt6PCsD0cNGqsv/pCxlj6LffcndFiRFtL1/LPHILf1Ln47wiUMFGgQg0rJ/w==",
+  "success": true,
+  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Assembly-CSharp-Editor\\Assembly-CSharp-Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.unity.analyzers\\1.18.0\\microsoft.unity.analyzers.1.18.0.nupkg.sha512"
+  ],
+  "logs": []
+}

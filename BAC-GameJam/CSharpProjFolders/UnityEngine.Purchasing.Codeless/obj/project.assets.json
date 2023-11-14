@@ -1,0 +1,381 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Purchasing.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Purchasing.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Purchasing.Common.dll": {}
+        }
+      },
+      "Unity.Services.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Services.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Services.Core.dll": {}
+        }
+      },
+      "UnityEditor.TestRunner/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEngine.TestRunner": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEditor.TestRunner.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEditor.TestRunner.dll": {}
+        }
+      },
+      "UnityEditor.UI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEditor.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEditor.UI.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.AppleCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleCore.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.AppleMacosStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.AppleCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleMacosStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleMacosStub.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.AppleStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.AppleCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.AppleStub.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.SecurityCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityCore.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.SecurityStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.SecurityCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.SecurityStub.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.Stores/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Purchasing.Common": "1.0.0",
+          "Unity.Services.Core": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing": "1.0.0",
+          "UnityEngine.Purchasing.AppleCore": "1.0.0",
+          "UnityEngine.Purchasing.AppleMacosStub": "1.0.0",
+          "UnityEngine.Purchasing.AppleStub": "1.0.0",
+          "UnityEngine.Purchasing.SecurityCore": "1.0.0",
+          "UnityEngine.Purchasing.SecurityStub": "1.0.0",
+          "UnityEngine.Purchasing.WinRTCore": "1.0.0",
+          "UnityEngine.Purchasing.WinRTStub": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.Stores.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.Stores.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.WinRTCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTCore.dll": {}
+        }
+      },
+      "UnityEngine.Purchasing.WinRTStub/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.Purchasing.WinRTCore": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTStub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.Purchasing.WinRTStub.dll": {}
+        }
+      },
+      "UnityEngine.TestRunner/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/UnityEngine.TestRunner.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.TestRunner.dll": {}
+        }
+      },
+      "UnityEngine.UI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/UnityEngine.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnityEngine.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Purchasing.Common/1.0.0": {
+      "type": "project",
+      "path": "../Purchasing.Common/Purchasing.Common.csproj",
+      "msbuildProject": "../Purchasing.Common/Purchasing.Common.csproj"
+    },
+    "Unity.Services.Core/1.0.0": {
+      "type": "project",
+      "path": "../Unity.Services.Core/Unity.Services.Core.csproj",
+      "msbuildProject": "../Unity.Services.Core/Unity.Services.Core.csproj"
+    },
+    "UnityEditor.TestRunner/1.0.0": {
+      "type": "project",
+      "path": "../UnityEditor.TestRunner/UnityEditor.TestRunner.csproj",
+      "msbuildProject": "../UnityEditor.TestRunner/UnityEditor.TestRunner.csproj"
+    },
+    "UnityEditor.UI/1.0.0": {
+      "type": "project",
+      "path": "../UnityEditor.UI/UnityEditor.UI.csproj",
+      "msbuildProject": "../UnityEditor.UI/UnityEditor.UI.csproj"
+    },
+    "UnityEngine.Purchasing/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing/UnityEngine.Purchasing.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing/UnityEngine.Purchasing.csproj"
+    },
+    "UnityEngine.Purchasing.AppleCore/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.AppleCore/UnityEngine.Purchasing.AppleCore.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.AppleCore/UnityEngine.Purchasing.AppleCore.csproj"
+    },
+    "UnityEngine.Purchasing.AppleMacosStub/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.AppleMacosStub/UnityEngine.Purchasing.AppleMacosStub.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.AppleMacosStub/UnityEngine.Purchasing.AppleMacosStub.csproj"
+    },
+    "UnityEngine.Purchasing.AppleStub/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.AppleStub/UnityEngine.Purchasing.AppleStub.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.AppleStub/UnityEngine.Purchasing.AppleStub.csproj"
+    },
+    "UnityEngine.Purchasing.SecurityCore/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.SecurityCore/UnityEngine.Purchasing.SecurityCore.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.SecurityCore/UnityEngine.Purchasing.SecurityCore.csproj"
+    },
+    "UnityEngine.Purchasing.SecurityStub/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.SecurityStub/UnityEngine.Purchasing.SecurityStub.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.SecurityStub/UnityEngine.Purchasing.SecurityStub.csproj"
+    },
+    "UnityEngine.Purchasing.Stores/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.Stores/UnityEngine.Purchasing.Stores.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.Stores/UnityEngine.Purchasing.Stores.csproj"
+    },
+    "UnityEngine.Purchasing.WinRTCore/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.WinRTCore/UnityEngine.Purchasing.WinRTCore.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.WinRTCore/UnityEngine.Purchasing.WinRTCore.csproj"
+    },
+    "UnityEngine.Purchasing.WinRTStub/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.Purchasing.WinRTStub/UnityEngine.Purchasing.WinRTStub.csproj",
+      "msbuildProject": "../UnityEngine.Purchasing.WinRTStub/UnityEngine.Purchasing.WinRTStub.csproj"
+    },
+    "UnityEngine.TestRunner/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.TestRunner/UnityEngine.TestRunner.csproj",
+      "msbuildProject": "../UnityEngine.TestRunner/UnityEngine.TestRunner.csproj"
+    },
+    "UnityEngine.UI/1.0.0": {
+      "type": "project",
+      "path": "../UnityEngine.UI/UnityEngine.UI.csproj",
+      "msbuildProject": "../UnityEngine.UI/UnityEngine.UI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "UnityEditor.UI >= 1.0.0",
+      "UnityEngine.Purchasing >= 1.0.0",
+      "UnityEngine.Purchasing.Stores >= 1.0.0",
+      "UnityEngine.UI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\junio\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.Purchasing.Codeless\\UnityEngine.Purchasing.Codeless.csproj",
+      "projectName": "UnityEngine.Purchasing.Codeless",
+      "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.Purchasing.Codeless\\UnityEngine.Purchasing.Codeless.csproj",
+      "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+      "outputPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.Purchasing.Codeless\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj"
+            },
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.Purchasing.Stores\\UnityEngine.Purchasing.Stores.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.Purchasing.Stores\\UnityEngine.Purchasing.Stores.csproj"
+            },
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.Purchasing\\UnityEngine.Purchasing.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.Purchasing\\UnityEngine.Purchasing.csproj"
+            },
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

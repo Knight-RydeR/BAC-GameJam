@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary
+build_property.ProjectDir = c:\Github-Repo\BAC-GameJam\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary\
