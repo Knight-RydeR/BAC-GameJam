@@ -1,0 +1,3 @@
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.ShaderGraph.Editor\obj\Debug\netstandard2.1\Unity.ShaderGraph.Editor.csproj.AssemblyReference.cache
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.ShaderGraph.Editor\obj\Debug\netstandard2.1\Unity.ShaderGraph.Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.ShaderGraph.Editor\obj\Debug\netstandard2.1\Unity.ShaderGraph.Editor.csproj.CoreCompileInputs.cache

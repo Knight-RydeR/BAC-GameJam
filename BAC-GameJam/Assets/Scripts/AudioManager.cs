@@ -20,6 +20,10 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioSource waterSplashSound;
     [SerializeField] private AudioSource[] wifeSound;
 
+    [Header("Main Menu Audio")]
+    [SerializeField] private AudioSource menuLight;
+    [SerializeField] private AudioSource menuPiano;
+
 
     public void playDoorOpenSound() {
         doorOpen.time = 0.45f;
@@ -85,5 +89,13 @@ public class AudioManager : MonoBehaviour
 
     public void waterSplash() {
         waterSplashSound.Play();
+    }
+
+    public void menuLightSound() {
+        menuLight.Play();
+    }
+
+    public void menuPianoSound() {
+        menuPiano.Play();
     }
 }

@@ -1,0 +1,3 @@
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.VisualScripting.Core.Editor\obj\Debug\netstandard2.1\Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.VisualScripting.Core.Editor\obj\Debug\netstandard2.1\Unity.VisualScripting.Core.Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.VisualScripting.Core.Editor\obj\Debug\netstandard2.1\Unity.VisualScripting.Core.Editor.csproj.CoreCompileInputs.cache

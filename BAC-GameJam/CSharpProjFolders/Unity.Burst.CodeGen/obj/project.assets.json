@@ -99,19 +99,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\junio\\.nuget\\packages\\": {}
+    "C:\\Users\\Ryder\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\Unity.Burst.CodeGen.csproj",
+      "projectUniqueName": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\Unity.Burst.CodeGen.csproj",
       "projectName": "Unity.Burst.CodeGen",
-      "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\Unity.Burst.CodeGen.csproj",
-      "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\obj\\",
+      "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\Unity.Burst.CodeGen.csproj",
+      "packagesPath": "C:\\Users\\Ryder\\.nuget\\packages\\",
+      "outputPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ryder\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -123,8 +123,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst\\Unity.Burst.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst\\Unity.Burst.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst\\Unity.Burst.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst\\Unity.Burst.csproj"
             }
           }
         }
@@ -154,7 +154,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

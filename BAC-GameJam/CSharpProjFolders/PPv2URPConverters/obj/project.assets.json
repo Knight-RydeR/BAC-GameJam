@@ -347,19 +347,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\junio\\.nuget\\packages\\": {}
+    "C:\\Users\\Ryder\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\PPv2URPConverters.csproj",
+      "projectUniqueName": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\PPv2URPConverters.csproj",
       "projectName": "PPv2URPConverters",
-      "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\PPv2URPConverters.csproj",
-      "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\obj\\",
+      "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\PPv2URPConverters.csproj",
+      "packagesPath": "C:\\Users\\Ryder\\.nuget\\packages\\",
+      "outputPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ryder\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -371,29 +371,29 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Editor\\Unity.RenderPipelines.Core.Editor.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Editor\\Unity.RenderPipelines.Core.Editor.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Editor\\Unity.RenderPipelines.Core.Editor.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Editor\\Unity.RenderPipelines.Core.Editor.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Runtime\\Unity.RenderPipelines.Core.Runtime.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Runtime\\Unity.RenderPipelines.Core.Runtime.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Runtime\\Unity.RenderPipelines.Core.Runtime.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Core.Runtime\\Unity.RenderPipelines.Core.Runtime.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Editor\\Unity.RenderPipelines.Universal.Editor.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Editor\\Unity.RenderPipelines.Universal.Editor.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Editor\\Unity.RenderPipelines.Universal.Editor.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Editor\\Unity.RenderPipelines.Universal.Editor.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Runtime\\Unity.RenderPipelines.Universal.Runtime.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Runtime\\Unity.RenderPipelines.Universal.Runtime.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Runtime\\Unity.RenderPipelines.Universal.Runtime.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.RenderPipelines.Universal.Runtime\\Unity.RenderPipelines.Universal.Runtime.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.TestRunner\\UnityEditor.TestRunner.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.TestRunner\\UnityEngine.TestRunner.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
             }
           }
         }
@@ -423,7 +423,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

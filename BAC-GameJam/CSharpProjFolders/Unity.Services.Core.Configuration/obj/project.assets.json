@@ -122,19 +122,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\junio\\.nuget\\packages\\": {}
+    "C:\\Users\\Ryder\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Configuration\\Unity.Services.Core.Configuration.csproj",
+      "projectUniqueName": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Configuration\\Unity.Services.Core.Configuration.csproj",
       "projectName": "Unity.Services.Core.Configuration",
-      "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Configuration\\Unity.Services.Core.Configuration.csproj",
-      "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Configuration\\obj\\",
+      "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Configuration\\Unity.Services.Core.Configuration.csproj",
+      "packagesPath": "C:\\Users\\Ryder\\.nuget\\packages\\",
+      "outputPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ryder\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -146,17 +146,17 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Internal\\Unity.Services.Core.Internal.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Internal\\Unity.Services.Core.Internal.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Internal\\Unity.Services.Core.Internal.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core.Internal\\Unity.Services.Core.Internal.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core\\Unity.Services.Core.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core\\Unity.Services.Core.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core\\Unity.Services.Core.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Services.Core\\Unity.Services.Core.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEditor.UI\\UnityEditor.UI.csproj"
             },
-            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
-              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\UnityEngine.UI\\UnityEngine.UI.csproj"
             }
           }
         }
@@ -186,7 +186,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

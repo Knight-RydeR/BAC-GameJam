@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aWjNESzjZA5piY4ep/PC484P/6Vt6PCsD0cNGqsv/pCxlj6LffcndFiRFtL1/LPHILf1Ln47wiUMFGgQg0rJ/w==",
+  "dgSpecHash": "Gnu8IPmvcu/uN9d5tu67MWH1ClJPU0/gyatV2gKudxrlFyAXG1f+OxglP+MDLhcUuIw2Myqq9+wQMkutZS1uaA==",
   "success": true,
-  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Assembly-CSharp-Editor\\Assembly-CSharp-Editor.csproj",
+  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Assembly-CSharp-Editor\\Assembly-CSharp-Editor.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\junio\\.nuget\\packages\\microsoft.unity.analyzers\\1.18.0\\microsoft.unity.analyzers.1.18.0.nupkg.sha512"
+    "C:\\Users\\Ryder\\.nuget\\packages\\microsoft.unity.analyzers\\1.18.0\\microsoft.unity.analyzers.1.18.0.nupkg.sha512"
   ],
   "logs": []
 }

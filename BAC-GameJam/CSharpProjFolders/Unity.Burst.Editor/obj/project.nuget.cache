@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NEAZMQI8LuuK/4zE3TZGRTSeRhPYThTXAZyssJM+8hKL2jZ6lXszci0JlOAAjAREQmRlQOWLPUO35jeO3IUPNQ==",
+  "dgSpecHash": "e04W0PP6eSwNbF5myLY0yeimprexV4P3mWH+R7YlvLcBl1N0E3psgPZoC5KEFnq+HddzoBfETDh1kuqQzrhgng==",
   "success": true,
-  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.Editor\\Unity.Burst.Editor.csproj",
+  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.Editor\\Unity.Burst.Editor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

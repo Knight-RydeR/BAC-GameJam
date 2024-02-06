@@ -127,6 +127,7 @@ public class StateManagement : MonoBehaviour
         // player.resetAfterReversal();
         // wifey.resetWifey();
         distortion.intensity.value = 0f;
+        time = 0;
         if (state == 1) {
             player.resetAfterReversal();
             wifey.resetWifey();

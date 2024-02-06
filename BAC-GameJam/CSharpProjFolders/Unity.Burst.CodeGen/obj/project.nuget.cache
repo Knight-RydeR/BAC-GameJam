@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Id8GlGPCC1cCR2t/GrkNHItQk1J60DZwWPwAAWf2lIJ1kY3euzLgW01lPzTsWMQ/schIfbi3xfsvt8OTGlHc+Q==",
+  "dgSpecHash": "SgNObVu3FQLsqfpH4sBXMrEHfb109K2DkG18IgKCKxN7xwkmtzUMW0gjRX27Ogj0ThjdcvsHVFHOtnZAX2HC8w==",
   "success": true,
-  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\Unity.Burst.CodeGen.csproj",
+  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst.CodeGen\\Unity.Burst.CodeGen.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
