@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Unity.Collections.BurstCompatibilityGen
+build_property.ProjectDir = C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Collections.BurstCompatibilityGen\

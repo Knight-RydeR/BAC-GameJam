@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XUCatFUSmrw8b7u5+kBMZcbR1MRujyidpEIeVAdGLYyHBAzzA27bO7RtdID3UV+uA1poRSngh3E9gWBlo2jbew==",
+  "success": true,
+  "projectFilePath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\MagicaClothV2\\MagicaClothV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryder\\.nuget\\packages\\microsoft.unity.analyzers\\1.18.0\\microsoft.unity.analyzers.1.18.0.nupkg.sha512"
+  ],
+  "logs": []
+}
