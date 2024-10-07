@@ -9,10 +9,6 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.U
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Analytics.Tracker.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Android.Gradle.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Android.Types.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Burst.Cecil.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Mdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Pdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Rocks.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Burst.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Mathematics.dll
@@ -236,3 +232,5 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.U
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\obj\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.csproj.CopyComplete
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\obj\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\obj\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.pdb
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.RenderPipelines.Universal.Runtime\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll

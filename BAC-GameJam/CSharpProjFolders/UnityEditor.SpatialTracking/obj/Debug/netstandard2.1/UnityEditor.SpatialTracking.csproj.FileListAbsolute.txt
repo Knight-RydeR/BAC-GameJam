@@ -14,11 +14,6 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTrac
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Analytics.Tracker.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Android.Gradle.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Android.Types.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Burst.Cecil.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Mdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Pdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Rocks.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Plastic.Antlr3.Runtime.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Plastic.Newtonsoft.Json.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.VisualScripting.Antlr3.Runtime.dll
@@ -222,7 +217,6 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTrac
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.VisualScripting.IonicZip.xml
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Newtonsoft.Json.pdb
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.VisualScripting.YamlDotNet.xml
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.xml
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\UnityEditor.iOS.Extensions.Xcode.pdb
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\UnityEditor.iOS.Extensions.Common.pdb
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\WebGLPlayerBuildProgram.Data.pdb
@@ -234,3 +228,5 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTrac
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\obj\Debug\netstandard2.1\UnityEditor.SpatialTracking.csproj.CopyComplete
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\obj\Debug\netstandard2.1\UnityEditor.SpatialTracking.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\obj\Debug\netstandard2.1\UnityEditor.SpatialTracking.pdb
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.SpatialTracking\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll

@@ -207,3 +207,7 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\obj\Debug\netstandard2.1\UnityEditor.TestRunner.csproj.CopyComplete
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\obj\Debug\netstandard2.1\UnityEditor.TestRunner.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\obj\Debug\netstandard2.1\UnityEditor.TestRunner.pdb
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.TestRunner\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll

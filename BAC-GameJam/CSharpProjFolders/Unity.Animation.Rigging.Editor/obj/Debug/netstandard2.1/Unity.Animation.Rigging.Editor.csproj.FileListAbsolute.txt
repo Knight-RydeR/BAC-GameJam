@@ -15,10 +15,6 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Android.Gradle.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Android.Types.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Burst.Cecil.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Mdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Pdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Rocks.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Burst.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Plastic.Antlr3.Runtime.dll
@@ -236,3 +232,5 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\obj\Debug\netstandard2.1\Unity.Animation.Rigging.Editor.csproj.CopyComplete
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\obj\Debug\netstandard2.1\Unity.Animation.Rigging.Editor.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\obj\Debug\netstandard2.1\Unity.Animation.Rigging.Editor.pdb
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Animation.Rigging.Editor\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll

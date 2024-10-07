@@ -14,10 +14,6 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyIn
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Analytics.Tracker.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Android.Gradle.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Android.Types.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Burst.Cecil.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Mdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Pdb.dll
-C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Rocks.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Burst.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Mathematics.dll
@@ -246,3 +242,5 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyIn
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\obj\Debug\netstandard2.1\UnityEditor.XR.LegacyInputHelpers.csproj.CopyComplete
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\obj\Debug\netstandard2.1\UnityEditor.XR.LegacyInputHelpers.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\obj\Debug\netstandard2.1\UnityEditor.XR.LegacyInputHelpers.pdb
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\UnityEditor.XR.LegacyInputHelpers\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll

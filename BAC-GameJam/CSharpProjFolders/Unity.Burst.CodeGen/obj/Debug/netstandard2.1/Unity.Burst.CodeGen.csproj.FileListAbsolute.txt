@@ -221,3 +221,4 @@ C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Burst.CodeGen\obj
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Burst.CodeGen\obj\Debug\netstandard2.1\Unity.Burst.CodeGen.csproj.CopyComplete
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Burst.CodeGen\obj\Debug\netstandard2.1\Unity.Burst.CodeGen.dll
 C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Burst.CodeGen\obj\Debug\netstandard2.1\Unity.Burst.CodeGen.pdb
+C:\Github-Repo\BAC-GameJam\BAC-GameJam\CSharpProjFolders\Unity.Burst.CodeGen\bin\Debug\netstandard2.1\Unity.Burst.Cecil.Mdb.dll

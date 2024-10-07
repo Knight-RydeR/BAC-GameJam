@@ -27,6 +27,8 @@
         "dependencies": {
           "Analytics": "1.0.0",
           "Cinemachine": "1.0.0",
+          "MagicaClothV2": "1.0.0",
+          "MagicaClothV2.Editor": "1.0.0",
           "PPv2URPConverters": "1.0.0",
           "Purchasing.Common": "1.0.0",
           "Unity.2D.Sprite.Editor": "1.0.0",
@@ -36,6 +38,8 @@
           "Unity.Animation.Rigging.Editor": "1.0.0",
           "Unity.Burst": "1.0.0",
           "Unity.Burst.Editor": "1.0.0",
+          "Unity.Collections": "1.0.0",
+          "Unity.Collections.Editor": "1.0.0",
           "Unity.Mathematics": "1.0.0",
           "Unity.Mathematics.Editor": "1.0.0",
           "Unity.PlasticSCM.Editor": "1.0.0",
@@ -145,6 +149,43 @@
         },
         "runtime": {
           "bin/placeholder/com.unity.cinemachine.editor.dll": {}
+        }
+      },
+      "MagicaClothV2/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Burst": "1.0.0",
+          "Unity.Collections": "1.0.0",
+          "Unity.Mathematics": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MagicaClothV2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MagicaClothV2.dll": {}
+        }
+      },
+      "MagicaClothV2.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MagicaClothV2": "1.0.0",
+          "Unity.Burst": "1.0.0",
+          "Unity.Collections": "1.0.0",
+          "Unity.Mathematics": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MagicaClothV2.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MagicaClothV2.Editor.dll": {}
         }
       },
       "PPv2URPConverters/1.0.0": {
@@ -289,6 +330,39 @@
         },
         "runtime": {
           "bin/placeholder/Unity.Burst.Editor.dll": {}
+        }
+      },
+      "Unity.Collections/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Burst": "1.0.0",
+          "Unity.Mathematics": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Collections.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Collections.dll": {}
+        }
+      },
+      "Unity.Collections.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.Collections": "1.0.0",
+          "UnityEditor.TestRunner": "1.0.0",
+          "UnityEditor.UI": "1.0.0",
+          "UnityEngine.TestRunner": "1.0.0",
+          "UnityEngine.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Collections.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Collections.Editor.dll": {}
         }
       },
       "Unity.Mathematics/1.0.0": {
@@ -1289,6 +1363,16 @@
       "path": "../com.unity.cinemachine.editor/com.unity.cinemachine.editor.csproj",
       "msbuildProject": "../com.unity.cinemachine.editor/com.unity.cinemachine.editor.csproj"
     },
+    "MagicaClothV2/1.0.0": {
+      "type": "project",
+      "path": "../MagicaClothV2/MagicaClothV2.csproj",
+      "msbuildProject": "../MagicaClothV2/MagicaClothV2.csproj"
+    },
+    "MagicaClothV2.Editor/1.0.0": {
+      "type": "project",
+      "path": "../MagicaClothV2.Editor/MagicaClothV2.Editor.csproj",
+      "msbuildProject": "../MagicaClothV2.Editor/MagicaClothV2.Editor.csproj"
+    },
     "PPv2URPConverters/1.0.0": {
       "type": "project",
       "path": "../PPv2URPConverters/PPv2URPConverters.csproj",
@@ -1333,6 +1417,16 @@
       "type": "project",
       "path": "../Unity.Burst.Editor/Unity.Burst.Editor.csproj",
       "msbuildProject": "../Unity.Burst.Editor/Unity.Burst.Editor.csproj"
+    },
+    "Unity.Collections/1.0.0": {
+      "type": "project",
+      "path": "../Unity.Collections/Unity.Collections.csproj",
+      "msbuildProject": "../Unity.Collections/Unity.Collections.csproj"
+    },
+    "Unity.Collections.Editor/1.0.0": {
+      "type": "project",
+      "path": "../Unity.Collections.Editor/Unity.Collections.Editor.csproj",
+      "msbuildProject": "../Unity.Collections.Editor/Unity.Collections.Editor.csproj"
     },
     "Unity.Mathematics/1.0.0": {
       "type": "project",
@@ -1635,6 +1729,8 @@
       "Analytics >= 1.0.0",
       "Assembly-CSharp >= 1.0.0",
       "Cinemachine >= 1.0.0",
+      "MagicaClothV2 >= 1.0.0",
+      "MagicaClothV2.Editor >= 1.0.0",
       "Microsoft.Unity.Analyzers >= *",
       "PPv2URPConverters >= 1.0.0",
       "Purchasing.Common >= 1.0.0",
@@ -1645,6 +1741,8 @@
       "Unity.Animation.Rigging.Editor >= 1.0.0",
       "Unity.Burst >= 1.0.0",
       "Unity.Burst.Editor >= 1.0.0",
+      "Unity.Collections >= 1.0.0",
+      "Unity.Collections.Editor >= 1.0.0",
       "Unity.Mathematics >= 1.0.0",
       "Unity.Mathematics.Editor >= 1.0.0",
       "Unity.PlasticSCM.Editor >= 1.0.0",
@@ -1736,6 +1834,12 @@
             "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\com.unity.cinemachine.editor\\com.unity.cinemachine.editor.csproj": {
               "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\com.unity.cinemachine.editor\\com.unity.cinemachine.editor.csproj"
             },
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\MagicaClothV2.Editor\\MagicaClothV2.Editor.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\MagicaClothV2.Editor\\MagicaClothV2.Editor.csproj"
+            },
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\MagicaClothV2\\MagicaClothV2.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\MagicaClothV2\\MagicaClothV2.csproj"
+            },
             "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\PPv2URPConverters.csproj": {
               "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\PPv2URPConverters\\PPv2URPConverters.csproj"
             },
@@ -1762,6 +1866,12 @@
             },
             "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst\\Unity.Burst.csproj": {
               "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Burst\\Unity.Burst.csproj"
+            },
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Collections.Editor\\Unity.Collections.Editor.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Collections.Editor\\Unity.Collections.Editor.csproj"
+            },
+            "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Collections\\Unity.Collections.csproj": {
+              "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Collections\\Unity.Collections.csproj"
             },
             "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Mathematics.Editor\\Unity.Mathematics.Editor.csproj": {
               "projectPath": "C:\\Github-Repo\\BAC-GameJam\\BAC-GameJam\\CSharpProjFolders\\Unity.Mathematics.Editor\\Unity.Mathematics.Editor.csproj"
